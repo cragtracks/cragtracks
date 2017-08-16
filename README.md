@@ -1,5 +1,5 @@
 # cragtracks
-GPS tracks of some tracks (and more)
+GPS tracks of some crags (and more)
 
 # Regina del Lago
 
