@@ -18,3 +18,5 @@ Location: [45.86342434, 10.82668751](http://www.openstreetmap.org/?mlat=45.86342
 
 Route description: [here](http://www.arrampicata-ledro.it/Arrampicata_Ledro/Biacesa_ReginaDelLago/RELAZIONI_BIACESA/Via_SolMinore.pdf) (in Italian)
 
+### Start of the route
+![Start](https://github.com/cragtracks/cragtracks/blob/master/Regina%20del%20Lago/Sol%20Minore/Sol_Minore_start.jpg)
