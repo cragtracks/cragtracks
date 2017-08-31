@@ -11,3 +11,5 @@ Grades: 5B+, 5Cs, a lot of 6A, and some up to 7B+
 Exposure: East
 
 Description: Nice falesia, bolted rather recently (around [2010-2012](http://www.forum.planetmountain.com/phpBB2/viewtopic.php?t=47361)), routes have metal plates with names and grades. Too hot in summer during the day. Attention: moskitoes! :)
+
+[GPX track how to get by car to Zambana crag](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Zambana%20Vecchia/Zambana_by_car_2017-08-31.gpx).
