@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Zambana_by_car_2017-08-31</name>
+  <desc></desc>
+  <author><name>WTracks - Online GPX track editor</name></author>
+  <link href="https://wtracks.appspot.com/">
+    <text>WTracks</text>
+    <type>text/html</type>
+  </link>
+  <time>2017-08-31T21:10:10.511Z</time>
+<bounds minlat="46.13792425983589" minlon="11.073675677847518" maxlat="46.13857196731869" maxlon="11.075506285500182"/></metadata>
+  <wpt lat="46.13776522" lon="11.073911279999948"><name>zambana</name><ele>254</ele></wpt>
+  <wpt lat="46.13817791177404" lon="11.074945919643369"><name>parking</name><ele>246</ele></wpt>
+<trk><name>Zambana_by_car_2017-08-31</name><trkseg>
+  <trkpt lat="46.13776472611594" lon="11.073912027850383"><ele>253</ele></trkpt>
+  <trkpt lat="46.138176636097086" lon="11.074947203135252"><ele>284</ele></trkpt>
+  <trkpt lat="46.1382659502018" lon="11.074920592625062"><ele>250</ele></trkpt>
+  <trkpt lat="46.13880803" lon="11.074784969999996"><ele>253</ele></trkpt>
+  <trkpt lat="46.13943367" lon="11.074422639999966"><ele>254</ele></trkpt>
+  <trkpt lat="46.14236535" lon="11.074252919999935"><ele>252</ele></trkpt>
+  <trkpt lat="46.14830776" lon="11.075507920000064"><ele>254</ele></trkpt>
+  <trkpt lat="46.15329553" lon="11.075641150000024"><ele>282</ele></trkpt>
+  <trkpt lat="46.15450833" lon="11.075508949999971"><ele>259</ele></trkpt>
+  <trkpt lat="46.15637332" lon="11.075956030000043"><ele>256</ele></trkpt>
+  <trkpt lat="46.15725865171563" lon="11.076456436983676"><name>Path to the Zambana crag</name><ele>257</ele></trkpt>
+</trkseg></trk></gpx>
