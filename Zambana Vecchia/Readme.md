@@ -1,4 +1,4 @@
-## Zambana vecchia
+## Zambana Vecchia
 
 Guide: none found after short googling
 
