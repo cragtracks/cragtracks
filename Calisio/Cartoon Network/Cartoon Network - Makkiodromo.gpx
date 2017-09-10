@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Cartoon Network - Makkiodromo</name>
+  <desc></desc>
+  <author><name>WTracks - Online GPX track editor</name></author>
+  <link href="https://wtracks.appspot.com/">
+    <text>WTracks</text>
+    <type>text/html</type>
+  </link>
+  <time>2017-09-10T11:09:05.944Z</time>
+<bounds minlat="46.08782254924396" minlon="11.134676175920617" maxlat="46.097539688077866" maxlon="11.163965898363244"/></metadata>
+<trk><name>Cartoon Network - Makkiodromo</name><trkseg>
+  <trkpt lat="46.0910194" lon="11.164281230000029"><ele>787</ele></trkpt>
+  <trkpt lat="46.0910787" lon="11.164170069999955"><ele>791</ele></trkpt>
+  <trkpt lat="46.09117179" lon="11.16387173999999"><ele>792</ele></trkpt>
+  <trkpt lat="46.09121536" lon="11.163157309999974"><ele>792</ele></trkpt>
+  <trkpt lat="46.09139619" lon="11.162989460000063"><ele>800</ele></trkpt>
+  <trkpt lat="46.09139773" lon="11.162097829999993"><ele>811</ele></trkpt>
+  <trkpt lat="46.09160633" lon="11.16169420999995"><ele>817</ele></trkpt>
+  <trkpt lat="46.09183397" lon="11.161029600000006"><ele>838</ele></trkpt>
+  <trkpt lat="46.09166145" lon="11.160381410000014"><ele>835</ele></trkpt>
+  <trkpt lat="46.09185189" lon="11.160208150000017"><ele>852</ele></trkpt>
+  <trkpt lat="46.09202635" lon="11.159744100000012"><ele>860</ele></trkpt>
+  <trkpt lat="46.09210704" lon="11.15915074999998"><ele>866</ele></trkpt>
+  <trkpt lat="46.09222678" lon="11.158602550000069"><ele>870</ele></trkpt>
+  <trkpt lat="46.09232212" lon="11.158055869999998"><ele>877</ele></trkpt>
+  <trkpt lat="46.0923218" lon="11.157309590000068"><ele>897</ele></trkpt>
+  <trkpt lat="46.09259654" lon="11.156246620000047"><ele>892</ele></trkpt>
+  <trkpt lat="46.09287109" lon="11.155696410000019"><ele>890</ele></trkpt>
+  <trkpt lat="46.09294424" lon="11.15538545000004"><ele>892</ele></trkpt>
+  <trkpt lat="46.09302684" lon="11.154785550000042"><name>Sign &quot;Palestra di Roccia&quot;</name><ele>900</ele></trkpt>
+  <trkpt lat="46.09309201" lon="11.154519039999968"><ele>895</ele></trkpt>
+  <trkpt lat="46.09312602" lon="11.154282400000056"><ele>903</ele></trkpt>
+  <trkpt lat="46.0932108" lon="11.15410640999994"><name>Cartoon Network</name><ele>903</ele></trkpt>
+  <trkpt lat="46.09303486861711" lon="11.154316865175929"><ele>923</ele></trkpt>
+  <trkpt lat="46.093048412774344" lon="11.154066805641378"><ele>933</ele></trkpt>
+  <trkpt lat="46.0930737" lon="11.15386422000006"><ele>946</ele></trkpt>
+  <trkpt lat="46.09307123" lon="11.153729620000036"><ele>907</ele></trkpt>
+  <trkpt lat="46.093055691543704" lon="11.153583550000008"><ele>917</ele></trkpt>
+  <trkpt lat="46.09305929" lon="11.153365460000032"><ele>911</ele></trkpt>
+  <trkpt lat="46.09303263" lon="11.152294660000052"><ele>905</ele></trkpt>
+  <trkpt lat="46.09310623" lon="11.15128525"><ele>914</ele></trkpt>
+  <trkpt lat="46.09310721" lon="11.151075600000013"><ele>906</ele></trkpt>
+  <trkpt lat="46.09313407" lon="11.150722099999939"><ele>909</ele></trkpt>
+  <trkpt lat="46.0933763" lon="11.149271870000007"><ele>937</ele></trkpt>
+  <trkpt lat="46.09340607" lon="11.149260599999934"><ele>929</ele></trkpt>
+  <trkpt lat="46.0934305" lon="11.148793189999992"><ele>924</ele></trkpt>
+  <trkpt lat="46.09361984" lon="11.148486130000038"><ele>920</ele></trkpt>
+  <trkpt lat="46.09386772" lon="11.14788924000004"><ele>917</ele></trkpt>
+  <trkpt lat="46.09391787" lon="11.147533380000027"><ele>922</ele></trkpt>
+  <trkpt lat="46.09403862" lon="11.14706724000007"><ele>920</ele></trkpt>
+  <trkpt lat="46.09407629" lon="11.146325890000071"><ele>920</ele></trkpt>
+  <trkpt lat="46.09409247" lon="11.146166920000042"><ele>915</ele></trkpt>
+  <trkpt lat="46.09417444908804" lon="11.146253247791037"><ele>908</ele></trkpt>
+  <trkpt lat="46.09418516679884" lon="11.146678744536871"><ele>898</ele></trkpt>
+  <trkpt lat="46.09418332" lon="11.146946549999939"><ele>933</ele></trkpt>
+  <trkpt lat="46.09425546" lon="11.14801220000004"><ele>927</ele></trkpt>
+  <trkpt lat="46.09434365" lon="11.148653579999973"><ele>930</ele></trkpt>
+  <trkpt lat="46.09416472" lon="11.150131379999948"><ele>949</ele></trkpt>
+  <trkpt lat="46.09407821" lon="11.150794020000035"><ele>939</ele></trkpt>
+  <trkpt lat="46.09398453" lon="11.150892999999996"><ele>955</ele></trkpt>
+  <trkpt lat="46.09388197" lon="11.151789020000024"><ele>955</ele></trkpt>
+  <trkpt lat="46.09391314" lon="11.15232967999998"><ele>962</ele></trkpt>
+  <trkpt lat="46.09399082739202" lon="11.15304043370486"><ele>955</ele></trkpt>
+  <trkpt lat="46.094051957477305" lon="11.152998718717186"><ele>960</ele></trkpt>
+  <trkpt lat="46.09415677" lon="11.152150959999972"><ele>986</ele></trkpt>
+  <trkpt lat="46.09422882" lon="11.151565249999976"><ele>992</ele></trkpt>
+  <trkpt lat="46.09435499" lon="11.151358849999951"><ele>995</ele></trkpt>
+  <trkpt lat="46.09455786" lon="11.15085539000006"><ele>1000</ele></trkpt>
+  <trkpt lat="46.09458903" lon="11.150842040000043"><ele>1005</ele></trkpt>
+  <trkpt lat="46.09463988" lon="11.15090196999995"><ele>1011</ele></trkpt>
+  <trkpt lat="46.09465049984106" lon="11.150938163194724"><name>Makkiodromo</name><ele>1011</ele></trkpt>
+</trkseg></trk></gpx>
