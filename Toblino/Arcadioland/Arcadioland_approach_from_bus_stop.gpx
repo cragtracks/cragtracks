@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Arcadioland_approach_from_bus_stop</name>
+  <desc></desc>
+  <author><name>WTracks - Online GPX track editor</name></author>
+  <link href="https://wtracks.appspot.com/">
+    <text>WTracks</text>
+    <type>text/html</type>
+  </link>
+  <time>2017-10-01T09:02:57.303Z</time>
+<bounds minlat="46.05769962321228" minlon="10.96230263867426" maxlat="46.06013039483145" maxlon="10.969625069284916"/></metadata>
+  <wpt lat="46.05964925417985" lon="10.966698768301171"><name>arcadioland</name><ele>399</ele></wpt>
+<trk><name>Arcadioland_approach_from_bus_stop</name><trkseg>
+  <trkpt lat="46.056395257313035" lon="10.965535459073863"><ele>297</ele></trkpt>
+  <trkpt lat="46.05648060263228" lon="10.965576518360649"><ele>296</ele></trkpt>
+  <trkpt lat="46.05665987" lon="10.965688689999979"><ele>304</ele></trkpt>
+  <trkpt lat="46.056982175036595" lon="10.965854140688407"><ele>300</ele></trkpt>
+  <trkpt lat="46.05722186377505" lon="10.966119969073816"><ele>310</ele></trkpt>
+  <trkpt lat="46.05746455313875" lon="10.966222048147529"><ele>309</ele></trkpt>
+  <trkpt lat="46.05805560010584" lon="10.96683081650815"><ele>317</ele></trkpt>
+  <trkpt lat="46.058334219898775" lon="10.966878356746065"><ele>328</ele></trkpt>
+  <trkpt lat="46.05852050527435" lon="10.967035005106482"><ele>332</ele></trkpt>
+  <trkpt lat="46.05858570491479" lon="10.966919947860333"><ele>337</ele></trkpt>
+  <trkpt lat="46.05847936316222" lon="10.966605829024388"><ele>341</ele></trkpt>
+  <trkpt lat="46.05861508407804" lon="10.966259757766238"><ele>353</ele></trkpt>
+  <trkpt lat="46.058695248904925" lon="10.966154159702796"><ele>353</ele></trkpt>
+  <trkpt lat="46.05875073480353" lon="10.96616347847953"><ele>349</ele></trkpt>
+  <trkpt lat="46.05879436" lon="10.96624989999998"><ele>348</ele></trkpt>
+  <trkpt lat="46.05880348485778" lon="10.966630700213045"><ele>357</ele></trkpt>
+  <trkpt lat="46.05900184765813" lon="10.966638347553271"><ele>368</ele></trkpt>
+  <trkpt lat="46.05935390319238" lon="10.966648887221368"><ele>376</ele></trkpt>
+  <trkpt lat="46.05949795" lon="10.966654779999999"><ele>383</ele></trkpt>
+  <trkpt lat="46.059653942418336" lon="10.966696859821695"><ele>394</ele></trkpt>
+</trkseg></trk></gpx>
