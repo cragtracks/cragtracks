@@ -8,7 +8,7 @@ Parking: Along a forest road there are several designated parkings, like this on
 
 Approach: 10 min from bus stop (fermata bus extraurbano)  
 
-[GPX track of approach path from Castello di Toblino bus stop to Arcadioland crag]()
+[GPX track of approach path from Castello di Toblino bus stop to Arcadioland crag](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Toblino/Arcadioland/Arcadioland_approach_from_bus_stop.gpx)
 
 Grades: from 5c to 7b
 
