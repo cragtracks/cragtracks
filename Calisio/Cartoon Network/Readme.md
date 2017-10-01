@@ -1,6 +1,7 @@
 ## Cartoon Network
 
 Guide: https://www.climbook.com/falesie/10461-monte-calisio-rifugio-campel-cartoon
+https://www.thecrag.com/climbing/italy/northern-italy/arco-trento-area/area/995764464
 
 Location: Monte Calisio 46.093211,11.154106 [OpenStreetMap](http://www.openstreetmap.org/?mlat=46.093211&mlon=11.154106#map=16/46.0942/11.1542) | [Google Maps](https://www.google.it/maps?q=46.093211,11.154106)
 
