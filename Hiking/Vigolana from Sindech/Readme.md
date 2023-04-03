@@ -8,3 +8,9 @@ The length of the route is ~5km one way with ~1100 uphill and 150 downhill (one 
 
 [GPX track](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Vigolana%20from%20Sindech/Vigolana_from_Sindech.gpx)
 
+## Way to do the hike?
+
+The view on Trento from Vigolana is amazing! Also the the plateau on the Southern side from the summit is a unique experience.
+Near the summit of Cima Vigolana there is also a bivouac (Bivacco Vigolana) where one can spend a night (check online on how to access
+and how to prepare for it).
+
