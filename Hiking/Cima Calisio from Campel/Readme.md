@@ -15,3 +15,5 @@ Length 4.8 km, elevantion gain uphill is 430m, downhill 100m (one way).
 It's short and easy hike very close to Trento. It offers nice views on Trento and surrounding mountains. The path is easy to follow.
 
 ![View on Monte Calisio from Trento (Le Albere)](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Cima%20Calisio%20from%20Campel/Calisio_from_le_albere_2023-04.jpg)
+
+*View on Monte Calisio from Trento (Le Albere).*
