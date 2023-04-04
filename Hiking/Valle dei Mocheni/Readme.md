@@ -14,7 +14,7 @@ Paid parking: [location](https://goo.gl/maps/Lrj9tnWJzViXAJ7g9)
 
 Free parking: [location](https://goo.gl/maps/K9bogpG7TEk93Tj59)
 
-This hike starts from a paid parking (1500m) and climbs to Rifugio Sette Selle 
+This hike starts from the paid parking (1500m) and climbs East to Rifugio Sette Selle 
 (2014m, 46.13232 11.39235) mostly 
 following well marked path. As of end of March, 2023, the Rifugio was open 
 (also for spending the night), which is noteworthy because it is not 
@@ -39,4 +39,32 @@ As other areas in Lagorai, this valley is rather wild and characteristic.
 
 ![Sette Selle from passo del Garofani](https://lh3.googleusercontent.com/pw/AMWts8AlA2yAzhzQ1o05WVSZLcT4xSY2cYO9AVbjZl3xewhoeiaLFQUWJLBxUAJFGcEauWAMEcA6KgYQmxo8h_bEaGILAYKeloCptF2mCsgt6MKj77fKohtTymSx570pTsQPPkXWbue6SEtGomyQyGx8QE7iFY0t5k3UWtMktaAq9CmUMQOviNmaqBseeA7T9tr6KW_SIXsvUQ8PHVfrDv85yySxAZL_ZZ4XdYXWP05d-kz_2sUkFa54Yfx_8k0YqVSN8MhKZzopINbcwJSkZcY2g55BehWJ7ixAI1PsS5ETRlmzF1CwD8WX8OwuZpmvu7OYpsT55zO8xM1NEoudb9gQG56-ISbvvRIbzdn5w4v6Je5gjIS2XZSMdEPwrjbXu5pCq-a1_XcXjaD1gJrBCLEm8q7XtTgNPlO6ktyQpvkjdW-S-zQZjoaNF4Ir8h0vdE6qiSg6Ep91SGiD7vFLw7FYMZBICSrVAAACPqsmbYkupMUwPw7GPi2eYJQKPKxNuZKtH4xlnpvXKw80C3RordIKe7hzGrJBGHbEQb0FW_B492xWdP_SF_ERACcWQvR-ukRF5bwlmdA9f1a6Lo7rrVJi00SBAahi7H1G_Cjyw0hRo1jI92rUlhhCjQbVfysgwnJRSGR1J6K5VT5E7L9OgSyiU4bMykSa_M0IL_eJ7lt0Mc_OMxx-QDINuirnO7336SKeri7cXtYA2kx610QhrZL_iCIHvVMofZDSZmlgeeEcIAefMK5swSsOE4v1rxim6BnhZi4ClrPCVJbs8uVGlr8NK0c2dDlDIxZWZs5P_amXHc9_dCEzX0FSf5l-nhqlLhmvY6DYimIct0fcM6nWHxwCLQwVTNr8bjSdppdgBZgzGKmk4-l5zzkqkU7mGjaEEc5xhA7YqvtbwqPzZuDDgLM2kQ=w1280-h854-s-no?authuser=0)
 
-*View on the mountains of Sette Selle from passo del Garofani.*
+*View on the mountains of Sette Selle from passo del Garofani. End of March, 2023*
+
+## Lago di Erdemolo
+
+### Track and info
+
+Paid parking: [location](https://goo.gl/maps/Lrj9tnWJzViXAJ7g9)
+
+Free parking: [location](https://goo.gl/maps/K9bogpG7TEk93Tj59)
+
+This hike starts from the same paid parking (1500m) as the track above, 
+and climbs South following a paved road for 1.5km until location Maso Lenzi,
+from where a well marked and quite steep path starts.
+
+The path follows in the Southern direction and brings to the Erdemolo
+lake (2000m). This may be very well the final destination of the hike,
+although the location also allows for creative continuation.
+
+This hike adds another 200m of altitude gain to bring to passo del Lago,
+which is located to the South from the lake. The area of the pass offers
+panoramic views on Lagorai mountains and Valsugana.
+
+Track details (one way):
+
+- Altitude gain: 530m to Lago di Erdemolo.
+- Length: 3km to Lago di Erdemolo.
+
+[GPX Track](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Valle%20dei%20Mocheni/Lago_di_Erdemolo_from_Palu_del_Fersina.gpx)
+
