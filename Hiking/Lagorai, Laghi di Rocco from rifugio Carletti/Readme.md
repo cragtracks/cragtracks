@@ -12,7 +12,7 @@ it to the West there are laghi delle Buse Basse, also there are several passes a
 your satisfaction. After Laghi di Rocco the hike turns to the East and reaches passo Val Cion (2076m).
 From there it descends to back to rifugio Carlettini but this time it takes a forest road on the other side of the valley thus completing the circle.
 
-The entire length is 15km with 900m of altitude gain.
+The entire length of the hike (including the return path) is 15km with 900m of altitude gain.
 
 [GPX Track](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Lagorai%2C%20Laghi%20di%20Rocco%20from%20rifugio%20Carletti/Laghi_di_Rocco_from_Rif_Carlettini.gpx)
 
