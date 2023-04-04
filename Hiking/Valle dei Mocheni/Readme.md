@@ -31,6 +31,8 @@ Track details (one way):
 - Altitude gain: 470m to Rifugio Sette Selle, 670m to passo del Garofani.
 - Length: 2.7 km to Rifugio Sette Selle, 3.5 to passo del Garofani.
 
+Both ways will be around 700m uphill, 700m downhill, and 7 km.
+
 [GPX Track](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Valle%20dei%20Mocheni/Rif_Sette_Selle_from_Palu_del_Fersina.gpx)
 
 ### Why going here
@@ -63,8 +65,10 @@ panoramic views on Lagorai mountains and Valsugana.
 
 Track details (one way):
 
-- Altitude gain: 530m to Lago di Erdemolo.
-- Length: 3km to Lago di Erdemolo.
+- Altitude gain: 530m to Lago di Erdemolo, 750m to passo del Lago.
+- Length: 3km to Lago di Erdemolo, 4km to passo del Lago.
+
+Both ways will be around 800m uphill and 800m downhill, 8 km.
 
 [GPX Track](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Valle%20dei%20Mocheni/Lago_di_Erdemolo_from_Palu_del_Fersina.gpx)
 
@@ -74,6 +78,6 @@ As other areas in Lagorai, this valley is rather wild and characteristic.
 Adding the passo del Lago to the hike allows to enjoy panoramic views of other areas
 of Lagorai.
 
-![Lago di Erdemolo](https://lh3.googleusercontent.com/pw/AMWts8CZ7IwOqnvDbqV8exzNY8r4ZTJzf5zW2O7bDkeJQRUPweGd2agLoDYZ3TQuk6JTH_LOkcW6a-nG4tKJA66EcQok_8BCHcPVpYErGaIaIuBBfoqk4ODutmTt29Dni9yrRCVuEXo4g9Y3ef8tXuwZZ3V7vjVbTMp-nAcehzFHF30SSubKiksIddfJU1wjFDsKJja5mC1GoZEUYnayjuIfGSidBGKZTGiHIpV3T0BoycKJ6qxYCt55oW8iR4Rn1cM-osbCqWvPkAWLZmkI5Yq_w6Tg1ynXxxlgMwToolh1BrRQ2G-rShJZqpGtP0BYYvoqu1yNyoCF-0YUzvyuTyAfl92yhHfSfM_FOr3r_0-aRK6R_zkRMIV2wdPtpm_lSojHzY6xY3sCFHh9IUL-DrzTtkbRqNlX76q7Q09jlNgVf6Rto-doXCa1BAs4k1or6YmZAy_euwG3AWcTV9X5lWgmiT-SNlDYdPY-1PKgZByDo-1-9L0Dxv5Gl-TKjb7Pep85BRZ0eGRNTO11m4nX93JCTaa-ssJceU-9I5bYeRAeHqxqlnNI5cUW6jOMRXE9e03b7cXk1a5LOSzziwOQT8KaTv4RWSWbACxrHZPX8QAKDcol6QwnHwKFGeG1NNIIwrvTTzaZRp1yTDN_dnyxpAWOwEeY-pK4Oe4XoVkmJOyRAM-5UeoUJxezrne5uKr97MYpoG8QNEN845xFBPhlzvfFkTn6Kb9Dh7SfULWm5lSo980YxVQkYYy5apx1tJ8YFK3EdDmCPHQNrSDdj_64qqwF71hPOvTMXYJvHyyGHtPeAddXwK858PaNEwYOtydt9XNgv1kcKy8I4y3-kq9R0JgUQyEiV0nH7g6WcgMu63AGtSfiHl238pS89AyNNinPFKaazDDbRFw91V7N8LLEgKsa8Q=w328-h246-no?authuser=0)
+![Lago di Erdemolo](https://lh3.googleusercontent.com/pw/AMWts8CZ7IwOqnvDbqV8exzNY8r4ZTJzf5zW2O7bDkeJQRUPweGd2agLoDYZ3TQuk6JTH_LOkcW6a-nG4tKJA66EcQok_8BCHcPVpYErGaIaIuBBfoqk4ODutmTt29Dni9yrRCVuEXo4g9Y3ef8tXuwZZ3V7vjVbTMp-nAcehzFHF30SSubKiksIddfJU1wjFDsKJja5mC1GoZEUYnayjuIfGSidBGKZTGiHIpV3T0BoycKJ6qxYCt55oW8iR4Rn1cM-osbCqWvPkAWLZmkI5Yq_w6Tg1ynXxxlgMwToolh1BrRQ2G-rShJZqpGtP0BYYvoqu1yNyoCF-0YUzvyuTyAfl92yhHfSfM_FOr3r_0-aRK6R_zkRMIV2wdPtpm_lSojHzY6xY3sCFHh9IUL-DrzTtkbRqNlX76q7Q09jlNgVf6Rto-doXCa1BAs4k1or6YmZAy_euwG3AWcTV9X5lWgmiT-SNlDYdPY-1PKgZByDo-1-9L0Dxv5Gl-TKjb7Pep85BRZ0eGRNTO11m4nX93JCTaa-ssJceU-9I5bYeRAeHqxqlnNI5cUW6jOMRXE9e03b7cXk1a5LOSzziwOQT8KaTv4RWSWbACxrHZPX8QAKDcol6QwnHwKFGeG1NNIIwrvTTzaZRp1yTDN_dnyxpAWOwEeY-pK4Oe4XoVkmJOyRAM-5UeoUJxezrne5uKr97MYpoG8QNEN845xFBPhlzvfFkTn6Kb9Dh7SfULWm5lSo980YxVQkYYy5apx1tJ8YFK3EdDmCPHQNrSDdj_64qqwF71hPOvTMXYJvHyyGHtPeAddXwK858PaNEwYOtydt9XNgv1kcKy8I4y3-kq9R0JgUQyEiV0nH7g6WcgMu63AGtSfiHl238pS89AyNNinPFKaazDDbRFw91V7N8LLEgKsa8Q=w1200-h900-s-no?authuser=0)
 
 *Lake Erdemolo from the path to passo del Lago. October, 2021.*
