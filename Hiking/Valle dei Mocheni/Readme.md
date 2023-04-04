@@ -53,11 +53,11 @@ This hike starts from the same paid parking (1500m) as the track above,
 and climbs South following a paved road for 1.5km until location Maso Lenzi,
 from where a well marked and quite steep path starts.
 
-The path follows in the Southern direction and brings to the Erdemolo
+The path continues in the Southern direction and brings to the Erdemolo
 lake (2000m). This may be very well the final destination of the hike,
 although the location also allows for creative continuation.
 
-This hike adds another 200m of altitude gain to bring to passo del Lago,
+This hike adds another 200m of altitude gain to bring to passo del Lago (2200m),
 which is located to the South from the lake. The area of the pass offers
 panoramic views on Lagorai mountains and Valsugana.
 
@@ -68,3 +68,12 @@ Track details (one way):
 
 [GPX Track](https://raw.githubusercontent.com/cragtracks/cragtracks/master/Hiking/Valle%20dei%20Mocheni/Lago_di_Erdemolo_from_Palu_del_Fersina.gpx)
 
+### Why coming here
+
+As other areas in Lagorai, this valley is rather wild and characteristic.
+Adding the passo del Lago to the hike allows to enjoy panoramic views of other areas
+of Lagorai.
+
+![Lago di Erdemolo](https://lh3.googleusercontent.com/pw/AMWts8CZ7IwOqnvDbqV8exzNY8r4ZTJzf5zW2O7bDkeJQRUPweGd2agLoDYZ3TQuk6JTH_LOkcW6a-nG4tKJA66EcQok_8BCHcPVpYErGaIaIuBBfoqk4ODutmTt29Dni9yrRCVuEXo4g9Y3ef8tXuwZZ3V7vjVbTMp-nAcehzFHF30SSubKiksIddfJU1wjFDsKJja5mC1GoZEUYnayjuIfGSidBGKZTGiHIpV3T0BoycKJ6qxYCt55oW8iR4Rn1cM-osbCqWvPkAWLZmkI5Yq_w6Tg1ynXxxlgMwToolh1BrRQ2G-rShJZqpGtP0BYYvoqu1yNyoCF-0YUzvyuTyAfl92yhHfSfM_FOr3r_0-aRK6R_zkRMIV2wdPtpm_lSojHzY6xY3sCFHh9IUL-DrzTtkbRqNlX76q7Q09jlNgVf6Rto-doXCa1BAs4k1or6YmZAy_euwG3AWcTV9X5lWgmiT-SNlDYdPY-1PKgZByDo-1-9L0Dxv5Gl-TKjb7Pep85BRZ0eGRNTO11m4nX93JCTaa-ssJceU-9I5bYeRAeHqxqlnNI5cUW6jOMRXE9e03b7cXk1a5LOSzziwOQT8KaTv4RWSWbACxrHZPX8QAKDcol6QwnHwKFGeG1NNIIwrvTTzaZRp1yTDN_dnyxpAWOwEeY-pK4Oe4XoVkmJOyRAM-5UeoUJxezrne5uKr97MYpoG8QNEN845xFBPhlzvfFkTn6Kb9Dh7SfULWm5lSo980YxVQkYYy5apx1tJ8YFK3EdDmCPHQNrSDdj_64qqwF71hPOvTMXYJvHyyGHtPeAddXwK858PaNEwYOtydt9XNgv1kcKy8I4y3-kq9R0JgUQyEiV0nH7g6WcgMu63AGtSfiHl238pS89AyNNinPFKaazDDbRFw91V7N8LLEgKsa8Q=w328-h246-no?authuser=0)
+
+*Lake Erdemolo from the path to passo del Lago. October, 2021.*
