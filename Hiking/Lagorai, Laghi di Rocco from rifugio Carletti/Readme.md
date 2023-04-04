@@ -1,7 +1,11 @@
 ## Track and info
 
+Parking at Rifugio Carlettini: 46.15136, 11.51652 [location](https://goo.gl/maps/nthsNUzKY3qxjTqFA)
+
+Parking further by the road (less walking): 46.16020, 11.52870 [location](https://goo.gl/maps/16p4TNd8ZpMdNgSz9)
+
 This hike takes place in the heart of Lagorai mountain group. It starts from rifugio Carlettini (1360m) with plenty of parking available there.
-There is also a possibility to park 1.5km further and shorten the hike here: 46.16020, 11.52870 [location](https://goo.gl/maps/16p4TNd8ZpMdNgSz9)
+There is also a possibility to park 1.5km further and shorten the hike. 
 
 The hike then goes to the North, following a marked path to a place called Laghi di Rocco (2130m). Right at that spot there is no lake, but just above
 it to the West there are laghi delle Buse Basse, also there are several passes around, so the original path can be creatively extendend for 
